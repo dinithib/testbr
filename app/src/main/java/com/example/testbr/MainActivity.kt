@@ -8,6 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         print("Hello")
+        //remote change!
         //This ia common change for all
         print("Common change test")
     }
